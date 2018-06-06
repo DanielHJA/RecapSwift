@@ -1,0 +1,21 @@
+PODS:
+  - Alamofire (4.6.0)
+  - Kingfisher (4.6.2)
+  - ObjectMapper (3.1.0)
+  - YouTubePlayer (0.4.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher
+  - ObjectMapper
+  - YouTubePlayer
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  Kingfisher: 55b9c395bf8d3949676ad3861111923990ab68cf
+  ObjectMapper: 20505058f54e5c3ca69e1d6de9897d152a5369a6
+  YouTubePlayer: 028451f6772f372d4759866db99824c676ac1473
+
+PODFILE CHECKSUM: 2ae8ffe5e1e4fe5733fa4a840448dde14ad02c7d
+
+COCOAPODS: 1.4.0
