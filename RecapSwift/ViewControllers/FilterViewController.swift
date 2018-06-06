@@ -75,7 +75,7 @@ class FilterViewController: UIViewController {
         let currentSegment = segmentedControl.selectedSegmentIndex
         let filterMethods = current.filterMethods()
         delegate?.didFilter(filterMethods![currentSegment])
-        close()
+        close() 
     }
 
     override func didReceiveMemoryWarning() {
